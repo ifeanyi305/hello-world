@@ -1,12 +1,13 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Project Name
+Hello Microverse
 
 > Description the project.
-
+This is a setup for linters and code editor
 
 ## Built With
-
+Html and CSS
 - Major languages
 - Frameworks
 - Technologies used
@@ -41,10 +42,10 @@ To get a local copy up and running follow these simple example steps.
 ## Authors
 
 👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+Ifeanyi Oti
+- GitHub: [@githubhandle](https://github.com/ifeanyi305)
+- Twitter: [@twitterhandle](https://twitter.com/ifeanyi)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/ifeanyi oti)
 
 👤 **Author2**
 
