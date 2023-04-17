@@ -1,63 +1,57 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
-Hello Microverse
+# My Portfolio
 
 > Description the project.
-This is a setup for linters and code editor
+My first project for my first repository in microverse program. This is my hello Microverse project.
 
 ## Built With
-Html and CSS
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
 
-## Live Demo (if available)
+## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+> coming soon
 
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-### Setup
+- You must have a code compiler installed on your machine such as (VS code or Atom).
 
-### Install
+**Go to your Cli and follow the steps below**
 
-### Usage
+To get a local copy up and running follow these simple example steps.
 
-### Run tests
+- Clone the repository: go to Your Cli and run
+```
+$ git clone https://github.com/ifeanyi305/hello-world.git
+```
 
-### Deployment
+- change into the repository:  run
+```
+$ cd repository name
+```
 
+- Install all the project dependences: Run 
+```
+$ npm Insttall
+``` 
 
+- now you can view the project in the browser using any web server of choice
 
 ## Authors
 
 👤 **Author1**
-Ifeanyi Oti
-- GitHub: [@githubhandle](https://github.com/ifeanyi305)
-- Twitter: [@twitterhandle](https://twitter.com/ifeanyi)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/ifeanyi oti)
 
-👤 **Author2**
+- GitHub: [@ifeanyi305](https://github.com/ifeanyi305)
+- Twitter: [@otiifeanyi2020](https://twitter.com/Otiifeanyi2020)
+- LinkedIn: [otijoseph](https://www.linkedin.com/in/oti-joseph-ifeanyi/)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
@@ -65,12 +59,9 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Hat tip to Microverse..
 
 ## 📝 License
 
 This project is [MIT](./LICENSE) licensed.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
